@@ -1,5 +1,1 @@
-- In this section, I meticulously developed a Flutter quiz application tailored for users to engage with questions and effortlessly access their results.
-- Through dedicated exploration, I honed my proficiency in Flutter and Dart, delving into intricate aspects such as widget interaction, conditional rendering, and adept state management.
-- My journey also led me to uncover the nuanced capabilities of Dart, including its versatile features like loops and list manipulation.
-- Despite the complexity, I approached each challenge with fervor and dedication, recognizing the importance of laying a robust groundwork for future Flutter endeavors.
-- While the process demanded considerable effort, I embraced each learning opportunity, ensuring a comprehensive understanding even when faced with moments of monotony.
+In this section, I developed a Flutter quiz app where users answer questions and see their results. I deepened my understanding of Flutter and Dart, learning about widget interaction, conditional rendering, and state management. I explored Dart features like loops and list manipulation, enhancing UI with scrolling and styling. This section laid a strong foundation for future Flutter projects.
